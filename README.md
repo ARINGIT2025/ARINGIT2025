@@ -15,7 +15,7 @@ As a B.Tech student specializing in Computer Science and Engineering with a focu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARINGIT2025&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
